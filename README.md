@@ -40,5 +40,3 @@ Playing chess is a captivating intellectual challenge requiring strategy, patien
 
 another version is coming, but this time with an `AI` you can train with ;=)
 
-![IA contre humain au échec](IA Echec)
-
