@@ -35,3 +35,7 @@ Pat, when the player whose turn it is has no legal move to make and his king is 
 
 ## Conclusion:
 Playing chess is a captivating intellectual challenge requiring strategy, patience and concentration. By mastering the basic rules and developing tactical and strategic skills, players can explore the infinite richness of this timeless game.
+
+
+
+another version is coming, but this time with an `AI` you can train with ;=)
